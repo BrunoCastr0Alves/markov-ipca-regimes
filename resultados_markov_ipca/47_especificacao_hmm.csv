@@ -1,0 +1,2 @@
+"Modelo";"Estados_latentes";"Algoritmo";"Inicializacao";"Ordenacao_estados";"Seed_global";"Max_iter";"Tolerancia";"Iteracoes_EM";"Observacao"
+"HMM gaussiano em nivel";3;"EM com filtro forward-backward escalado";"k-means com 3 grupos, nstart = 100";"Medias estimadas em ordem crescente";123;500;1e-08;33;"Extensao auxiliar; em nivel, tende a capturar fortemente a quebra entre inflacao cronica e estabilizacao."

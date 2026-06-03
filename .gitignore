@@ -1,0 +1,21 @@
+# R local/session files
+.Rhistory
+.RData
+.Ruserdata
+
+# Local package library created by the script
+biblioteca_R/
+
+# Temporary/extracted files
+cadeias_de_markov_*_extraido.txt
+cadeias_de_markov_pdf_extraido.txt
+
+# Old local copies
+markov_ipca_regimes - Copia.R
+markov_ipca_regimes.txt
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.Rproj.user/

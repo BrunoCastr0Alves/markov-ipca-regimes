@@ -1,0 +1,10 @@
+"";"Baixa";"Moderada";"Alta"
+"Baixa|Baixa";96;34;0
+"Moderada|Baixa";34;21;0
+"Alta|Baixa";0;0;0
+"Baixa|Moderada";20;35;0
+"Moderada|Moderada";35;85;4
+"Alta|Moderada";0;5;1
+"Baixa|Alta";0;0;0
+"Moderada|Alta";0;1;4
+"Alta|Alta";0;5;174

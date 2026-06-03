@@ -1,0 +1,7 @@
+"Periodo";"Regime";"Frequencia";"Probabilidade_de_permanencia";"Duracao_esperada_em_meses"
+"Pre-Real";"Baixa";58;0,827586206896552;5,8
+"Pre-Real";"Moderada";58;0,724137931034483;3,625
+"Pre-Real";"Alta";58;0,894736842105263;9,5
+"Pos-Real";"Baixa";122;0,60655737704918;2,54166666666667
+"Pos-Real";"Moderada";133;0,473684210526316;1,9
+"Pos-Real";"Alta";127;0,650793650793651;2,86363636363636

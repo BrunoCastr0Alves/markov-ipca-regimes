@@ -1,0 +1,2 @@
+"Amostra_efetiva";"Numero_parametros";"LogLik";"AIC";"BIC";"Codigo_convergencia";"Convergiu";"Menor_contagem_celula";"Celulas_com_zero";"Maior_coeficiente_absoluto";"Menor_probabilidade_prevista";"Maior_probabilidade_prevista";"Criterio_quase_separacao";"Alerta_quase_separacao"
+324;18;-298,022173180129;632,044346360258;700,09772964452;0;TRUE;9;0;6,04936881932272;1,61268274608176e-05;0,987400590477161;"Alerta se maior |coef| > 10, menor probabilidade prevista < 1e-6 ou celulas com zero > 0.";FALSE

@@ -1,0 +1,10 @@
+"Periodo";"Regime";"Probabilidade_de_permanencia";"Duracao_esperada_em_meses"
+"Pre-pandemia";"Baixa";0,712328767123288;3,47619047619048
+"Pre-pandemia";"Moderada";0,691275167785235;3,23913043478261
+"Pre-pandemia";"Alta";0,972826086956522;36,8
+"Pandemia";"Baixa";0,7;3,33333333333333
+"Pandemia";"Moderada";0,846153846153846;6,5
+"Pandemia";"Alta";NA;NA
+"Pos-pandemia";"Baixa";0,655172413793103;2,9
+"Pos-pandemia";"Moderada";0,476190476190476;1,90909090909091
+"Pos-pandemia";"Alta";0;1

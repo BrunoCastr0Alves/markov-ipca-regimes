@@ -1,0 +1,2 @@
+"Modelo";"Estados_latentes";"Algoritmo";"Inicializacao";"Ordenacao_estados";"Seed_global";"Max_iter";"Tolerancia";"Iteracoes_EM";"Observacao"
+"HMM gaussiano em log(1 + IPCA)";3;"EM com filtro forward-backward escalado";"k-means com 3 grupos, nstart = 100";"Medias estimadas em ordem crescente";123;500;1e-08;21;"Robustez auxiliar para reduzir a influencia de valores extremos da inflacao pre-Real."
